@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<styles version="1.0">
+    <set name="Page Custom Color">
+        <style name="Background Color" variable="background" type="color" />
+    </set>
+</styles>
