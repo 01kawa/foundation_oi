@@ -22,4 +22,5 @@ http://concrete5-japan.org/help/5-7/developer/designing-for-concrete5/adding-gri
 ◆デザインカスタマイズを使うための解説ページ
 
 http://concrete5-japan.org/help/5-7/developer/designing-for-concrete5/enabling-style-customization/enabling-basic-customization/
+
 http://concrete5-japan.org/help/5-7/developer/designing-for-concrete5/enabling-style-customization/including-less-stylesheets-in-your-theme/
