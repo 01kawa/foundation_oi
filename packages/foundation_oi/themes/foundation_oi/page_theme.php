@@ -8,12 +8,12 @@ class PageTheme extends Theme
 {
 	public function getThemeDescription()
 	{
-		return t("Theme Description here");
+		return t("Foundation for conrerete5");
 	}
 
 	public function getThemeName()
 	{
-		return t("Theme Name here");
+		return t("Foundation Grid Theme");
 	}
 	protected $pThemeGridFrameworkHandle = 'foundation';
 }
