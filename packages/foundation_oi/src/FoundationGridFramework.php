@@ -36,18 +36,18 @@ class FoundationGridFramework extends GridFramework
 	public function getPageThemeGridFrameworkColumnClasses()
 	{
 	    $columns = array(
-	        'small-1 ',
-	        'small-2 ',
-	        'small-3',
-	        'small-4',
-	        'small-5',
-	        'small-6',
-	        'small-7',
-	        'small-8',
-	        'small-9',
-	        'small-10',
-	        'small-11',
-	        'small-12',
+	        'large-1 small-12',
+	        'large-2  small-12',
+	        'large-3  small-12',
+	        'large-4  small-12',
+	        'large-5  small-12',
+	        'large-6  small-12',
+	        'large-7  small-12',
+	        'large-8  small-12',
+	        'large-9  small-12',
+	        'large-10  small-12',
+	        'large-11  small-12',
+	        'large-12  small-12',
 	    );
 	    return $columns;
 	}
